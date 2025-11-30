@@ -25,7 +25,7 @@ function App() {
         <div className="section">
           <h2 className="title">&gt; LINKS</h2>
           <div className="links">
-            <a href="/cv 2025 edited.pdf" className="link" download>
+            <a href="/cv-resume.pdf" className="link" download>
               [DOWNLOAD CV/RESUME]
             </a>
             <a href="https://your-portfolio.com" className="link" target="_blank" rel="noopener noreferrer">
