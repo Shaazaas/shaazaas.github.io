@@ -28,7 +28,7 @@ function App() {
             <a href="/cv-resume.pdf" className="link" download>
               [DOWNLOAD CV/RESUME]
             </a>
-            <a href="https://your-portfolio.com" className="link" target="_blank" rel="noopener noreferrer">
+            <a href="https://shaazaas.github.io" className="link" target="_blank" rel="noopener noreferrer">
               [VIEW ACTUAL PORTFOLIO]
             </a>
           </div>
