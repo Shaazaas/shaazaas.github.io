@@ -25,7 +25,7 @@ function App() {
         <div className="section">
           <h2 className="title">&gt; LINKS</h2>
           <div className="links">
-            <a href="/resume.pdf" className="link" download>
+            <a href="/cv 2025 edited.pdf" className="link" download>
               [DOWNLOAD CV/RESUME]
             </a>
             <a href="https://your-portfolio.com" className="link" target="_blank" rel="noopener noreferrer">
@@ -73,7 +73,7 @@ function App() {
         </div>
 
         <div className="footer">
-          <p className="text">@ belongs to shazyar   understanding is the harshest gift</p>
+          <p className="text">@ belongs to shazyar   <br /> understanding is the harshest gift</p>
         </div>
       </div>
     </div>
